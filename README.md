@@ -8,5 +8,12 @@ In facets .txt files we provide the set of facet defining inequalities for the c
 
 We have also presented some results found for violations that were searched using simple sampling of quantum states using QuTip (https://qutip.org/). 
 
+# What is included
+
+1) Full set of classical vertices (deterministic edge assignments) for small event graphs.
+2) Full set of inequalities for the event graphs W5, W6, K4, K5, K6.
+3) An easy Python code for checking if a given point pertains to K5.
+
+# How to cite
 
 
