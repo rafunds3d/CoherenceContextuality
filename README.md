@@ -13,6 +13,8 @@ We have also presented some results found for violations that were searched usin
 1) Full set of classical vertices (deterministic edge assignments) for small event graphs.
 2) Full set of inequalities for the event graphs W5, W6, K4, K5, K6.
 3) An easy Python code for checking if a given point pertains to K5.
+4) A large number of quantum violations for the K5 inequalities in 2, 3, and 4 dimensional quantum systems.
+5) All deterministic assignments for K7
 
 # How to cite
 
