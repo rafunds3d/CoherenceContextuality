@@ -18,9 +18,10 @@ We have also presented some results found for violations that were searched usin
 
 # How to cite
 
+Bib.
 @article{wagner2022inequalities,
   title={Inequalities witnessing coherence, nonlocality, and contextuality},
   author={Wagner, Rafael and Barbosa, Rui Soares and Galv{\~a}o, Ernesto F.},
-  journal={arXiv preprint arXiv:-},
+  journal={arXiv preprint arXiv:2209.02670},
   year={2022}
 }
